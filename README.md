@@ -1,3 +1,5 @@
+<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/8750b9a0-b25f-478f-add7-db0821100649" />
+
 # Final year project in robotics with Louise (the beacon) and Waldo (the robot)
 <i>french traduction bellow</i>
 
